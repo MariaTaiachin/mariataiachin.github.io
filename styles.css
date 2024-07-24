@@ -1,0 +1,71 @@
+.header{
+    color:rgb(169, 117, 218);
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+nav{
+    font-style: italic;
+    color:darkmagenta;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-align:right ;
+    font-size: 150%;
+}
+body, html{
+    text-align: center;
+    background-color:rgb(230, 220, 202);
+}
+#nume{
+    text-align:left;
+    font-style: italic;
+    color:darkmagenta;
+
+}
+#imag{
+    border-radius: 40%;
+}
+.y{
+    color:darkviolet;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    display: inline;
+}
+.yey{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    display: inline;
+}
+#txt{
+    color:hotpink;
+    font-weight: bold;
+    background-color: rgb(178, 228, 190);
+    display: inline;
+}
+#msg{
+    color:purple;
+    font-weight: bold;
+    background-color: rgb(157, 223, 231);
+    display: inline;
+}
+.z{
+    font-weight: bold;
+    background-color: rgb(218, 190, 219);
+    display: inline;
+}
+.a{
+    font-weight: bold;
+    background-color: rgb(233, 175, 190);
+    display: inline;
+}
+#cv{
+font-size: 350%;
+}
+.b{
+    text-decoration: underline;
+    text-decoration-style:double;
+    color:indigo;
+    display: inline;
+}
