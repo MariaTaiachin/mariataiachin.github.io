@@ -1,3 +1,40 @@
+.container{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+.pers{
+    width: 50%;
+    position: relative;
+    left: 45%;
+}
+.ed{
+    width: 50%;
+    position: relative;
+    left: 45%;
+}
+.ind{
+    width: 50%;
+    position: relative;
+    left: 45%;
+}
+table{
+    width:100%
+}
+table,tr,th,td{
+    border-collapse: collapse;
+}
+tr { display: block; float: left; 
+width:50%;
+}
+th, td { display: block; }
+th{
+    margin-right: 50%;
+    text-align: left;
+}
+td{
+    text-align: right;
+}
 .header{
     color:rgb(169, 117, 218);
     text-decoration: underline;
@@ -12,7 +49,7 @@ nav{
     font-size: 150%;
 }
 body, html{
-    text-align: center;
+    
     background-color:rgb(230, 220, 202);
 }
 #nume{
@@ -22,7 +59,7 @@ body, html{
 
 }
 #imag{
-    border-radius: 40%;
+    border-radius: 50%;
 }
 .y{
     color:darkviolet;
